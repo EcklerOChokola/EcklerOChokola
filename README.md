@@ -4,7 +4,7 @@ I'm a french CS engineering student, and this profile is for my side projects. I
 
 Even though I will mostly do Node.js in my spare time, I am open to collaborate on all types of projects, going from Assembly language to ML in Python.
 
- - I am currently taking part to [Advent of Code 2022](https://adventofcode.com/2022), and working on a Gmail/Discord integration (private).
+ - I am currently taking part to [Advent of Code 2023](https://adventofcode.com/2023), and working on a Gmail/Discord integration (private).
 
 I may post my private GitLab repositories once I finish studying :eyes:
 
